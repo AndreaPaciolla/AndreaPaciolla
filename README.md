@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pacho</h1>
 <h3 align="center">An IT Solution Architect from Italy</h3>
 
-- 🔭 I’m currently working for [Agos](https://www.agos.it/)
+- 🔭 I’m currently working for [Banca Mediolanum](https://www.bancamediolanum.it/)
 
-- 👯 part of [Crédit Agricole](https://www.credit-agricole.it/) group
+- 👯 an italian most significant bank as per [the official paper](https://www.bancamediolanum.it/static-assets/documents/comunicazioni/2016/ECBComprehensiveAssessment041116.pdf) 
 
 - 🌱 I’m currently learning **lots of things**
 
